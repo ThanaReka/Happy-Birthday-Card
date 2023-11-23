@@ -5,3 +5,5 @@
 - An Image composable is a UI element that displays images in your app.
 - An Image composable should have a content description to make your app more accessible.
 - Text that's shown to the user, such as the birthday greeting, should be extracted into a string resource to make it easier to translate your app into other languages.
+
+Reference: https://developer.android.com/courses/android-basics-compose/course
